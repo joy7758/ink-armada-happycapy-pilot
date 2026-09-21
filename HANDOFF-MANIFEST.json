@@ -1,0 +1,2017 @@
+{
+  "schema": "ink-handoff.v1",
+  "sourceCommit": "27eeb8662438f8c8014a1bd43a7a87ce8118731a",
+  "sourceDirty": false,
+  "files": [
+    {
+      "path": ".agents/skills/SOURCE.json",
+      "bytes": 2421,
+      "sha256": "1451a1d2806c2d5a1cdb7dc53ef21e3945659e984a77491145f1526a5fa69b20"
+    },
+    {
+      "path": ".agents/skills/game-ai/LICENSE",
+      "bytes": 11395,
+      "sha256": "6f82dcfeb95a1c0a0452180a3b16f21bf82111780018fed59d95a052b5b75f6c"
+    },
+    {
+      "path": ".agents/skills/game-ai/NOTICE",
+      "bytes": 883,
+      "sha256": "2dcb65b1c5be24e5ba11e937f3996100f4e980d8cf8ac5b30ba1d70dae6c40f8"
+    },
+    {
+      "path": ".agents/skills/game-ai/SKILL.md",
+      "bytes": 7999,
+      "sha256": "ef23a6440743b3583d1072c92f6b0b45f3d11df33b3b77db53bce8b82c2f8940"
+    },
+    {
+      "path": ".agents/skills/game-ai/references/behavior-trees.md",
+      "bytes": 4944,
+      "sha256": "2b69a6ae71a1034c049889fb4b0ccbc8697db9ad9f177f07c1053379cb0ef1fc"
+    },
+    {
+      "path": ".agents/skills/game-ai/references/pathfinding.md",
+      "bytes": 4900,
+      "sha256": "3f1ce44462b4d1789245758b72d0b20e8053df458df1f743455dcd5d7319bba3"
+    },
+    {
+      "path": ".agents/skills/game-feel/LICENSE",
+      "bytes": 11395,
+      "sha256": "6f82dcfeb95a1c0a0452180a3b16f21bf82111780018fed59d95a052b5b75f6c"
+    },
+    {
+      "path": ".agents/skills/game-feel/NOTICE",
+      "bytes": 883,
+      "sha256": "2dcb65b1c5be24e5ba11e937f3996100f4e980d8cf8ac5b30ba1d70dae6c40f8"
+    },
+    {
+      "path": ".agents/skills/game-feel/SKILL.md",
+      "bytes": 8985,
+      "sha256": "68fc818ad939151be2db9e358e4295a71830c19d61f3aff849f1599307f39f9d"
+    },
+    {
+      "path": ".agents/skills/game-feel/references/feedback-recipes.md",
+      "bytes": 5543,
+      "sha256": "c1d0c4d9480bf4cd729ca99f2b36ebc1f3f264a873b408f2145898841e5d6685"
+    },
+    {
+      "path": ".agents/skills/input-systems/LICENSE",
+      "bytes": 11395,
+      "sha256": "6f82dcfeb95a1c0a0452180a3b16f21bf82111780018fed59d95a052b5b75f6c"
+    },
+    {
+      "path": ".agents/skills/input-systems/NOTICE",
+      "bytes": 883,
+      "sha256": "2dcb65b1c5be24e5ba11e937f3996100f4e980d8cf8ac5b30ba1d70dae6c40f8"
+    },
+    {
+      "path": ".agents/skills/input-systems/SKILL.md",
+      "bytes": 7665,
+      "sha256": "4cb79ad13d54b5b7412efc978d8c5bc3dab529182feb531f304d7d75879f2308"
+    },
+    {
+      "path": ".agents/skills/input-systems/references/buffering-and-accessibility.md",
+      "bytes": 4130,
+      "sha256": "4ddc70151a9d72fdc7e0a310f242834ab55c2f7f1133f44e4a51ecda95b4f563"
+    },
+    {
+      "path": ".agents/skills/level-design/LICENSE",
+      "bytes": 11395,
+      "sha256": "6f82dcfeb95a1c0a0452180a3b16f21bf82111780018fed59d95a052b5b75f6c"
+    },
+    {
+      "path": ".agents/skills/level-design/NOTICE",
+      "bytes": 883,
+      "sha256": "2dcb65b1c5be24e5ba11e937f3996100f4e980d8cf8ac5b30ba1d70dae6c40f8"
+    },
+    {
+      "path": ".agents/skills/level-design/SKILL.md",
+      "bytes": 7081,
+      "sha256": "f1656cb00b9af8dc625a9655448b410b37ce6f1e523048a5abf09fda25cbfd32"
+    },
+    {
+      "path": ".agents/skills/level-design/references/pacing-and-flow.md",
+      "bytes": 4500,
+      "sha256": "e8e3940f585e376f353aefea009befe8199a1871f99d34d7b2340cb35cb61872"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 71,
+      "sha256": "547a9e807a6bcbcc4e818be93790d3289fb17281d8c2035ca55607338d4bec2f"
+    },
+    {
+      "path": ".node-version",
+      "bytes": 7,
+      "sha256": "e8e8584c09cc1d8fbb12fbf9c0f6f84053223ab8a236a5230c3c9b20ff1a017a"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 8284,
+      "sha256": "bfc2330dde0791b1057ddcddda096225d28386ba9c7f19f5c500d480f0de63ef"
+    },
+    {
+      "path": "BUILD-MANIFEST.json",
+      "bytes": 73220,
+      "sha256": "ff7ed361e66a5e8da2b0c423e022f6b781cfdb32f4d28431cd513940a61aae9b"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 578,
+      "sha256": "6053ee949a6774cb25454011e0a2337f680feabdace53c396b639a949bf1dbd8"
+    },
+    {
+      "path": "HANDOFF.md",
+      "bytes": 4151,
+      "sha256": "4b14b3bf002fd57e5564afb23e1d858f85cdf906fe17299816c32d22cf5b5668"
+    },
+    {
+      "path": "PROJECT_CONSTITUTION.md",
+      "bytes": 2463,
+      "sha256": "a2f61cd66fb7596cd0d9c9cccfeb1a9f1171e682d08e183a8d45202b749d7fc9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9800,
+      "sha256": "fa020e178795d267afc6a37da6de58a66e632303f0f5a7ee83d9c4ecf870da8e"
+    },
+    {
+      "path": "agent.json",
+      "bytes": 6223,
+      "sha256": "37f7b8d5df4a50f25a80d02ac90a3620ee8195bf2407335a45d18e7c8fd25692"
+    },
+    {
+      "path": "assets/fonts/ArchitectsDaughter-Regular.ttf",
+      "bytes": 43352,
+      "sha256": "6159718a08898e34bc1cb7354086141a5f9a70b73e54dbec27ead0d59a697359"
+    },
+    {
+      "path": "assets/fonts/LICENSE-Virgil.md",
+      "bytes": 4304,
+      "sha256": "a3ac9cdc65ef304ffb095d8cc877ee93bf1bffa88269693cd42ddf001650ffd0"
+    },
+    {
+      "path": "assets/fonts/OFL-ArchitectsDaughter.txt",
+      "bytes": 4362,
+      "sha256": "0e441ae9f18ad0c294cc5b6ae3974c2db1614cab220598578b1b58c4cc334485"
+    },
+    {
+      "path": "assets/fonts/Virgil.woff2",
+      "bytes": 61248,
+      "sha256": "9976295bfe709bdea64839a4d4e9a1d436dd6eb67538399a5a0e8b8fadbcf1cf"
+    },
+    {
+      "path": "assets/fonts/wenkai/LICENSE",
+      "bytes": 1108,
+      "sha256": "93f6a553f49fa44ce45308a386c320a665b36ca10b4e96ae5f110827d9c2dd3c"
+    },
+    {
+      "path": "assets/fonts/wenkai/OFL.txt",
+      "bytes": 4301,
+      "sha256": "fe4ddef88d2705569740a4b6c59e1a73315e1a55fb0a0d054bd791977681f8cb"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-100.woff2",
+      "bytes": 62716,
+      "sha256": "ed12464f4f3b64c5f778a1f6cb2f8d1c3fc37d1d5df8c7e342c5db61ec6f25fa"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-101.woff2",
+      "bytes": 56304,
+      "sha256": "4c6610e8fba09efbed383ab8f497873d8e0fbaf3306dc2b39aee5b9a88c6e0bd"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-102.woff2",
+      "bytes": 59064,
+      "sha256": "d0ff138da1d5e5becd2aef31e3497519ea8aaf371a8ebb8ae5ebb79a00d20823"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-103.woff2",
+      "bytes": 61924,
+      "sha256": "5b1f92cc9622f526f597a49ade6939625e829622baf3ef39ec9dee07a11a8d98"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-104.woff2",
+      "bytes": 59976,
+      "sha256": "848229017d5dd1e6cdf2a18a21e25479d1ef22edc44fc016b33061aecd1a9325"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-105.woff2",
+      "bytes": 61148,
+      "sha256": "acb1358e136ecb6d3a08d8aad776cf428c2a16b806f344b650a7b8e9d533c812"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-106.woff2",
+      "bytes": 60256,
+      "sha256": "5c5273bb131b3d79263ddf41871ebd07d548e867361576745f0378f8f68668a5"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-107.woff2",
+      "bytes": 59252,
+      "sha256": "c3b3fadf6f4379d0d2a7eef2c7701f8f45604f16a2c3c6677f408cbcf71dbb26"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-108.woff2",
+      "bytes": 59628,
+      "sha256": "71b3dcabd6057d9c42bf5e3f791e69923097d00f69c7dab4a6939d7d4bd9899f"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-109.woff2",
+      "bytes": 58640,
+      "sha256": "4a73982b82d950f4bd99bc43e927d5aaf2bd92c2d152d3e168b4ffe745ba40b6"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-110.woff2",
+      "bytes": 57500,
+      "sha256": "f5b23fa35b1c64e1fac8d68117b1d9c8d42186598cbf1e8a48fc451b3578fd54"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-111.woff2",
+      "bytes": 59528,
+      "sha256": "30b090d3db2ff74ef43f2a027725eda29472a6bab652b1082b7e7766ba9b4df6"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-112.woff2",
+      "bytes": 56724,
+      "sha256": "98efe6d51509d50acbd1a5a94893ede9c62fc74187930e397ace273116d57e21"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-113.woff2",
+      "bytes": 55988,
+      "sha256": "4ed462f12bf26b041de10e8cd5f494df522233dac4f3709a962a154c04c86fe8"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-114.woff2",
+      "bytes": 54744,
+      "sha256": "bf95ee002643919e46a7b578b99b9d74142b2899b383a1de70a7c3e3cf9ef682"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-115.woff2",
+      "bytes": 53504,
+      "sha256": "2e38294e4175b4847a69724ffa09cdc851e4cd81725e3c4675a1d35826ec14de"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-116.woff2",
+      "bytes": 50560,
+      "sha256": "a48d699b33c5c94dda699ddda56800a5d96a7acce49f6b9586b0373e29a8b5a8"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-117.woff2",
+      "bytes": 49400,
+      "sha256": "6d25c10667c6e89127df46e42627a0e052dfa4b53f42eaab923b89db1f0f3292"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-118.woff2",
+      "bytes": 44176,
+      "sha256": "f29c89cd7420937450ecf9ba3c2f23268673a107dfe84c63243769cc0a12c418"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-119.woff2",
+      "bytes": 34732,
+      "sha256": "2e7b09ef00f5e8f2398d73d885b96e8ef8693e5c382750205c1d9efaa527c580"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-21.woff2",
+      "bytes": 26856,
+      "sha256": "5e8abbc13e24198885a7ece6ee5997c1882ca877064ea382d52e05a4f5d82641"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-22.woff2",
+      "bytes": 60144,
+      "sha256": "ab9c0078234bfbbd0ea504c0c71a3bd12870f5c182ff132c8eb71962832d2d04"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-23.woff2",
+      "bytes": 56628,
+      "sha256": "c4b231d5b8db3ec57d02fc33b98800913ac60700953da11758874b6cd61da656"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-24.woff2",
+      "bytes": 58428,
+      "sha256": "9bed5de310fadab61e19e885323aa50e9b1b65239d264792236e635789d902b4"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-25.woff2",
+      "bytes": 56684,
+      "sha256": "be4d6ccbfd0a56709ffa6b7d432f7c24141b36ab17f3244a31cb359a9cb5b3b5"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-26.woff2",
+      "bytes": 58312,
+      "sha256": "60c4742d61d3ffa6704dbf6336338876d7b98571a1764f180055dc9b4dd5e996"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-27.woff2",
+      "bytes": 49864,
+      "sha256": "3850e1583d12da1285f5d53eb664f8765607bf51a9c161ce929734a1c5587a51"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-28.woff2",
+      "bytes": 47872,
+      "sha256": "2308cc77c655cc4ec938160f06e42a7542c61050e9af21dc8e2ab10db2156f0f"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-29.woff2",
+      "bytes": 59256,
+      "sha256": "795d07570b485e6846494369f4ed84a1d555d852b298daccf26669026c943a62"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-30.woff2",
+      "bytes": 63996,
+      "sha256": "4ddbde8572767e48e6d5b36d78a8ed321478cd03f002be4f9763fbcde4802e87"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-31.woff2",
+      "bytes": 51280,
+      "sha256": "08eef328158785685c54e33e5bc365c0bc8195ac902f543b2328bcb5eabc37f0"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-32.woff2",
+      "bytes": 48336,
+      "sha256": "b30f46bef003854e5a04678832e9bfef9e77d91809f650e0b1602d4f2049b45a"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-33.woff2",
+      "bytes": 52736,
+      "sha256": "5c047fe5521df0947ec3a446006647fd7457d275feca5f963cdf2fb083b8303a"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-34.woff2",
+      "bytes": 48424,
+      "sha256": "96a7994e1a5fc95dcae7501245db26957a6b10c0d2b8223fc348e30109812be1"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-35.woff2",
+      "bytes": 47460,
+      "sha256": "ac88c668bdb248d3d265a040d7c9297a6bf0c61408f152cb67fa20ee3e359d12"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-36.woff2",
+      "bytes": 50560,
+      "sha256": "450f815b57df7060d4f438d32c007e50e25c35426f73816453486b77d77e90f1"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-37.woff2",
+      "bytes": 52468,
+      "sha256": "62ebf393fb64e4d0443de9d9cf395040c67fadc67ec8625624a256a158d07479"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-38.woff2",
+      "bytes": 58024,
+      "sha256": "eb03e2f2fb780947699f8f346cab96075c4872fa4bd2dfc6d4453c0b08224c50"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-39.woff2",
+      "bytes": 57168,
+      "sha256": "7d361c9b44d97e25ac35d74b4782db3af2d4372712f00eac72a9c5f78c7fce44"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-4.woff2",
+      "bytes": 7456,
+      "sha256": "5b2e31780544ce1be16c88f696f01a9a171b0a873271d935a4281dd6699b58f5"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-40.woff2",
+      "bytes": 53164,
+      "sha256": "a9f5b65f07d996e0b61d575ffa2cf8f9d04d4c9218261c6525bacdae17603ce1"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-41.woff2",
+      "bytes": 41644,
+      "sha256": "94846ea770eab5c3cca8a73262106faab670f6a8b3b7cfeb5739dc3fc182772b"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-42.woff2",
+      "bytes": 50244,
+      "sha256": "7506b9cb435fcbac32c4f00417308e390a06de2220658e7b6b1807a1d318e225"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-43.woff2",
+      "bytes": 48320,
+      "sha256": "706f02636bf717a22aafc0da34bfa35f73b4e24060b3a6bcb85525c076f264f4"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-44.woff2",
+      "bytes": 52808,
+      "sha256": "9ba69b599da877b9ec8071d8d50a4d719d4f0094c67de6812ddc5c67bfc2eb65"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-45.woff2",
+      "bytes": 63604,
+      "sha256": "f0ba799d44f58a771cd5b1af478a73f99b3dd6442b1d4783512c8b8d2081c05f"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-46.woff2",
+      "bytes": 57480,
+      "sha256": "aad1b4e5913a71a4ed71acc6ac7f999a0eadff8e42c120af5ab4b5d860cda991"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-47.woff2",
+      "bytes": 63012,
+      "sha256": "a842d6c20a9e611ff83885987995b1f1d061312b633ba1239add1521d70df9d9"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-48.woff2",
+      "bytes": 52528,
+      "sha256": "36606f24ab7ef45a6eb2823c4c5eafa67a3ba9a42e83c2d015ebcacbc1798fd0"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-49.woff2",
+      "bytes": 56612,
+      "sha256": "98b93bf514ed454668074de074cc9d51c8b5e605f94831a408b7c07353b53ce7"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-5.woff2",
+      "bytes": 17740,
+      "sha256": "532a50eb83e758562b7cb78f3d6397fe06e53c1ae663d6277a31904325eb9650"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-50.woff2",
+      "bytes": 53428,
+      "sha256": "7d850e4923677a2b4e014be9298eafe644b116d2b3bee36f33ce8ceb60904a00"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-51.woff2",
+      "bytes": 47756,
+      "sha256": "85af093f64d48cace81749d5929f1b05da212728c313a5d2938222f841dafbfe"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-52.woff2",
+      "bytes": 56392,
+      "sha256": "bcb7275795c80a9cc48bcf012d2cdda460a6f659f6244f9903df527394e6522f"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-53.woff2",
+      "bytes": 46880,
+      "sha256": "662c996f29d7167fd745f74fbaa21cddf11eea250978d823298677854f9f100b"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-54.woff2",
+      "bytes": 55840,
+      "sha256": "af93c49435e3d4b061987a3f91847dd12b7d090a76f244b83cbc4b445c67e2d5"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-55.woff2",
+      "bytes": 49020,
+      "sha256": "7fc968034f0715addb5d14f356521ade99344a186c03f4f98799d32bd351435d"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-56.woff2",
+      "bytes": 55756,
+      "sha256": "904b629c281101718d3c17b8ef0b055e42d7db11b7c69cf35690fe4327b73b40"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-57.woff2",
+      "bytes": 54820,
+      "sha256": "aa0a6b3bbb2cdbc70a24cef10a092cb974dc7ebe8419730d2085eed40a9a1139"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-58.woff2",
+      "bytes": 60292,
+      "sha256": "66df70c6073751fcfb863bd873f0aba129e1c2198c898715d73e80c6299b876d"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-59.woff2",
+      "bytes": 50616,
+      "sha256": "2f0c0507d7b454652d14cf2f5da00eb9cfcf0906cc46d5e8aabd1958ab2bf6f5"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-6.woff2",
+      "bytes": 12180,
+      "sha256": "fdac24f6747e94ff1f33de9ec409574ae98db97797b6388fb18f72fdde920dd4"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-60.woff2",
+      "bytes": 43496,
+      "sha256": "a6af1ca335eca7d247d073c49f39b55974331480523ec1d4bcfdaedc68ef032a"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-61.woff2",
+      "bytes": 44240,
+      "sha256": "d8ba73188b5e1e3264485b778bb53f5cca7de9dd316183a260cb77993ea69d05"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-62.woff2",
+      "bytes": 65248,
+      "sha256": "b5476aea510ea89ca0e101c79cf3062aac8c7a5095594c15ef6956be0813fa0b"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-63.woff2",
+      "bytes": 55476,
+      "sha256": "34625cbffd7ed80f3ea3050ec1b86a8be64198a811eccb4e153e4dcd70228876"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-64.woff2",
+      "bytes": 45436,
+      "sha256": "56a9ff6e85b23cf479343572224ad0243ebeb2b0d12c4249ca48a9ddda2ff837"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-65.woff2",
+      "bytes": 48324,
+      "sha256": "f66af0c236f8845268685309e08e3dd9047139167d83f4d062d3e821daa69367"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-66.woff2",
+      "bytes": 54628,
+      "sha256": "fe6cb69290e66ece56d80bae8927c924ff597b913025ad4a4cea487a826cce55"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-67.woff2",
+      "bytes": 59708,
+      "sha256": "d3a0fd64bf440e5dee1f34ee53611174227de6f95e3abae7a2cb6cb40c183a42"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-68.woff2",
+      "bytes": 46976,
+      "sha256": "252b9643e52b21851dc49b86f2467856c1e3d07eef5ac517dd4ef7613569f296"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-69.woff2",
+      "bytes": 59820,
+      "sha256": "3dd17220af5da96db5bb8ac3490adf3e77477a5eb0897ef3c96349cc58eb8595"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-70.woff2",
+      "bytes": 45468,
+      "sha256": "7a014303f98547cee228820dc6ff1d7ca9430b065ca15eb1697d41e27d85395c"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-71.woff2",
+      "bytes": 50432,
+      "sha256": "bb4d08beb320660bfaef77f5cca74e0fdc333b6ad9de64ac08e700ce1edd9a66"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-72.woff2",
+      "bytes": 53400,
+      "sha256": "910ebb06fd48c5e3ad53fd1e261e07c768280660cc31ae680de7a3a3df25cf0c"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-73.woff2",
+      "bytes": 42880,
+      "sha256": "88c2747926fc8416110cbdebb4ce4e36daebad0d53318958c78c646adc3f5258"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-74.woff2",
+      "bytes": 61288,
+      "sha256": "1ea20cc2bd0cf5708659b9760147b56c04936a9966729186638515564637ae34"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-75.woff2",
+      "bytes": 52856,
+      "sha256": "8d0b47e1b0fa318cf71e2da6a66b1a1245e6b205a6c383ee6cd6c4a1c777957d"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-76.woff2",
+      "bytes": 54260,
+      "sha256": "82197fa5073023d65cf6b829d8ad72d759870894a6d448a72ed95fd03f3357d5"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-77.woff2",
+      "bytes": 43920,
+      "sha256": "cb801efa400d53a570a0c9e03c3971f89b7971c900ee6f89110fcaa70cfc7f7f"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-78.woff2",
+      "bytes": 55624,
+      "sha256": "b63426437debd55c72355f9426f795165f245f113cd32d2e7c3ccaf8ccc1cafa"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-79.woff2",
+      "bytes": 47976,
+      "sha256": "f08571150b483814f995f72848ef92c9013c2bb8bd8ad85780fe4d1674c46eb6"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-80.woff2",
+      "bytes": 37116,
+      "sha256": "f0ed0e2051f3851b4741ec8907537a932f8efffc2a1ab98ea838aa9a30466bf9"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-81.woff2",
+      "bytes": 47316,
+      "sha256": "946758d5951efbb9df0cd009b497162e60bc0caacb97c389d8b50d58b621b44f"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-82.woff2",
+      "bytes": 48044,
+      "sha256": "a0a3ac104ffba726b45e8e5bd2f080f10bd7bc56d4a2fcc1d1f48c0268ca2ef8"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-83.woff2",
+      "bytes": 50064,
+      "sha256": "abbefb23d1c2c71907003c6ef2ebb0388fbb87ecb3171c11f57d212d6eb9c880"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-84.woff2",
+      "bytes": 36456,
+      "sha256": "d4b2719db6af08f2b001f50ae7b73894ef312c5b78dbf7416bc689bfa6bf2799"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-85.woff2",
+      "bytes": 26200,
+      "sha256": "9367fa9045a674dce4ff4eb3ec2b00e5ea03c12f2f5e2dd958346828b078495b"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-86.woff2",
+      "bytes": 22140,
+      "sha256": "66406edba7be92b9be2bd1db2acea1d0c1fc3e86d0195b486351098e9ced60b4"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-87.woff2",
+      "bytes": 11528,
+      "sha256": "70a64b62ffcf6f6ae49062b617f4527f147dab89e9e082068e8e3a2d456debb4"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-88.woff2",
+      "bytes": 11208,
+      "sha256": "9117ba3b341792d6b986b3db41884e4cb1d5bac1ffcd265d17d3e490073408e4"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-89.woff2",
+      "bytes": 14732,
+      "sha256": "648fc44e73d442049fef8e5ecf952b9c16094c58d59c46dbe29a41f2598338f7"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-90.woff2",
+      "bytes": 15056,
+      "sha256": "ad3555a9140d3b7ccbffb4aa671b6ef1537ff0e4921e05a6a67f38303df979a3"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-91.woff2",
+      "bytes": 12216,
+      "sha256": "be66d21c1a9d1360b0c024f6e036e4da1027b08b2510ee6dc0f3f74abb867dd8"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-97.woff2",
+      "bytes": 9888,
+      "sha256": "20c5e3c87ee276fba79c2728d9a8f1e114d6a76fed7b9b30b06b69abf788aa05"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-98.woff2",
+      "bytes": 17836,
+      "sha256": "f17f580693b03ac2027ea97ead43e379c66270d76cd752c8e5ba98d9b51df869"
+    },
+    {
+      "path": "assets/fonts/wenkai/files/lxgwwenkai-regular-subset-99.woff2",
+      "bytes": 15700,
+      "sha256": "fe33789fdb79e507b2d2cd22f2ca403bdea11f942c109486a78b7e184c67eac5"
+    },
+    {
+      "path": "assets/fonts/wenkai/regular.css",
+      "bytes": 105068,
+      "sha256": "6814d50561bbe42907c5e7763d268cd517294ce0a9ecf9dd9305ba6f729015a3"
+    },
+    {
+      "path": "assets/reference-v2/ink-armada-reference-barrel.png",
+      "bytes": 1763078,
+      "sha256": "c5f905a16897ef16b689ec3bd8df8ab9ebdd5767dc5b216673ef8a1c69673886"
+    },
+    {
+      "path": "assets/reference-v2/ink-armada-reference-boss.png",
+      "bytes": 3511918,
+      "sha256": "61fcf4143b1f403aad3684a597a5cf3c5d4e6319b0b0526608e4469fd2780d32"
+    },
+    {
+      "path": "assets/reference-v2/ink-armada-reference-kraken.png",
+      "bytes": 3102882,
+      "sha256": "b8035127004aefd6449a3d66de09d5223c69eae4e9dcb1a0438db8cc53df03cf"
+    },
+    {
+      "path": "assets/reference-v2/ink-armada-reference-menu-zh.png",
+      "bytes": 1951053,
+      "sha256": "931399b30fb76378b688cacce233ff6e316937400a45ce87a231e9a15fbb7a7d"
+    },
+    {
+      "path": "assets/reference-v2/ink-armada-reference-menu.png",
+      "bytes": 2609407,
+      "sha256": "e8b33dc465a7635e50752b3e3e7b55b13e2ac2c68cdc4f132acea7777d48109e"
+    },
+    {
+      "path": "assets/reference-v2/ink-armada-reference-ricochet.png",
+      "bytes": 2263458,
+      "sha256": "02152dde3282723c1220347d1a2264f357bf57d479fb8052b888f17bf9c02282"
+    },
+    {
+      "path": "assets/reference-v2/ink-armada-reference-skiff-a.png",
+      "bytes": 1900096,
+      "sha256": "b54ea91c87d43e6719b172b81c80b3551f58d689509ce9d5cdefdc0020b77fc9"
+    },
+    {
+      "path": "assets/visual-lock/interface-freeze.json",
+      "bytes": 1806,
+      "sha256": "ca1c3050e1eca0f58e6ffc77f97597a36089771a87c6c266f294b649a71a9245"
+    },
+    {
+      "path": "assets/visual-lock/manifest.json",
+      "bytes": 42011,
+      "sha256": "5ae730f9fdab5a5eafde5110daeef021fac0d33b185aca39d0c7dd7571071a65"
+    },
+    {
+      "path": "docs/agent-consultation.md",
+      "bytes": 1875,
+      "sha256": "7b677b7058fa0fd744736bef946337c11cfbd825b3a2f28dab0ac59d7e7bdba7"
+    },
+    {
+      "path": "docs/combat-motion-analysis.md",
+      "bytes": 13799,
+      "sha256": "0226709a205b4cd64831f9eb65fac8ac905a55c30d828fa145a2fc57b661ce9c"
+    },
+    {
+      "path": "docs/deep-analysis/README.md",
+      "bytes": 9943,
+      "sha256": "52fbce50184188e800cfe38c46d4014ce62f104b5f0df25164ba5e4137c36c4e"
+    },
+    {
+      "path": "docs/deep-analysis/art-direction.md",
+      "bytes": 13381,
+      "sha256": "086fca9f9d43f1359b82f154860842ad593c43b06972154fdc357f8826e1fc44"
+    },
+    {
+      "path": "docs/deep-analysis/combat-language.md",
+      "bytes": 22540,
+      "sha256": "f5485e9ffa1695760de230394ed1399c32925c693baa8b76ad06c19c6f00c8fb"
+    },
+    {
+      "path": "docs/deep-analysis/motion-grammar.md",
+      "bytes": 13332,
+      "sha256": "8bb03dbc39d79a886767ccb590506b0e1035c79377905a82f1806468fa1e932b"
+    },
+    {
+      "path": "docs/deep-analysis/pre-analysis-project-status.json",
+      "bytes": 4820,
+      "sha256": "ca35b4c43275c9331c20384e3087b104325d47f0f0d0f682745ab9cb660c4b09"
+    },
+    {
+      "path": "docs/deep-analysis/shot-structure.md",
+      "bytes": 4698,
+      "sha256": "c3963373bdf17872ff8cd24cef14975d52371c3205b7016a23a896d3fc82b3fa"
+    },
+    {
+      "path": "docs/governance-research.md",
+      "bytes": 7696,
+      "sha256": "7fbc31f51d0983d67a2d63a149d72f759da9f9f7d18c5723bcafcdd6609e6568"
+    },
+    {
+      "path": "docs/history-v0.1/agent-consultation.md",
+      "bytes": 10419,
+      "sha256": "e9b059d751b5185d580a0a360a35cdd6a26a284ded6f4085e9e13e883f67f2aa"
+    },
+    {
+      "path": "docs/history-v0.1/research.md",
+      "bytes": 5839,
+      "sha256": "52c2ad25a68bfaf0c08bc773db3ee6fa17954cbe5105e1c6d5aeb6e36fecc87e"
+    },
+    {
+      "path": "docs/history-v0.1/validation.md",
+      "bytes": 4566,
+      "sha256": "ffda21774863fdc8ccfcb1cb02a9128794df544334a3039d72d169e1793926f0"
+    },
+    {
+      "path": "docs/history-v0.2/agent-consultation.md",
+      "bytes": 1942,
+      "sha256": "706b09bc74f8397f9c63f512b20b936a6bf6ddd0d21136d81975888e3bb784ab"
+    },
+    {
+      "path": "docs/history-v0.2/design-qa.md",
+      "bytes": 3000,
+      "sha256": "85f2b034e24b80b15d36aff5a7fd00f25eb15b9a299b0027f37c2e6936a402a9"
+    },
+    {
+      "path": "docs/history-v0.2/project-status.json",
+      "bytes": 3192,
+      "sha256": "85ba6bc1a9e300e7e5bb793232056b1493c151d0c838e3f400c8ccd57dcd2232"
+    },
+    {
+      "path": "docs/history-v0.2/research.md",
+      "bytes": 3567,
+      "sha256": "941d72f550b82a995225598e178e761d70a29772216175b46573379c1a1732cd"
+    },
+    {
+      "path": "docs/history-v0.2/validation.md",
+      "bytes": 2526,
+      "sha256": "974ee0a2585aa38f6adc3feb04b24e882721992ac31e1b31847d8a7aea2395cc"
+    },
+    {
+      "path": "docs/history-v0.3/AGENTS.md",
+      "bytes": 4211,
+      "sha256": "97274a6bdcb65a053f709c78f153356dd8ea90427d233f5834fd3b0eafbfc6df"
+    },
+    {
+      "path": "docs/history-v0.3/README.md",
+      "bytes": 6059,
+      "sha256": "f8c79985c994ebceff26e9353d32d9dcba177be031d615067ef6afa2f8577d54"
+    },
+    {
+      "path": "docs/history-v0.3/agent.json",
+      "bytes": 7703,
+      "sha256": "da5ccc388b6ef10ae95a2d1396ccce5c749f86fbeb955a7b6685c9839117f782"
+    },
+    {
+      "path": "docs/history-v0.3/project-status.json",
+      "bytes": 6875,
+      "sha256": "ada618f70e3270c6ee5e384634118b8b03d5d6837bc2a6672e8af24c8180a506"
+    },
+    {
+      "path": "docs/motion-review.md",
+      "bytes": 5012,
+      "sha256": "ac80924082d143aa5b7c6f1185022da187f5f6d47fc0eea6c9d6008779e593be"
+    },
+    {
+      "path": "docs/production-teardown/README.md",
+      "bytes": 13608,
+      "sha256": "4ca31d7217193e5f6ebcb5376e5b3346f6886a4b321ac25de4019c470e5c66b4"
+    },
+    {
+      "path": "docs/production-teardown/art-bible.md",
+      "bytes": 14186,
+      "sha256": "8c3413af9c936ea73c853f7d3e2fc8e2c9cfdea46e4b286128e1dd4a2e30eb87"
+    },
+    {
+      "path": "docs/production-teardown/combat-design.md",
+      "bytes": 24432,
+      "sha256": "8c7c734de851311d98f8725481305010bdf48150b5a5d73c261112f1bfa4fb23"
+    },
+    {
+      "path": "docs/production-teardown/motion-vfx.md",
+      "bytes": 20807,
+      "sha256": "781552c1eef162576d3f1c8d42ddf24ea62d20b417fb7ce0881f4a6df5c6699a"
+    },
+    {
+      "path": "docs/production-teardown/review-notes.md",
+      "bytes": 1039,
+      "sha256": "da16099579d3095f34803eb42652728ec1fd4f7e77df0bab9e572b39b3155cdb"
+    },
+    {
+      "path": "docs/production-teardown/ui-audio-localization.md",
+      "bytes": 7455,
+      "sha256": "13f67cecc0c08c86f331a3b3eee1f70f0b4296550533fd0616198f36b11e577f"
+    },
+    {
+      "path": "docs/reference-freeze/README.md",
+      "bytes": 3662,
+      "sha256": "3d8046a8eb9c8a24496f4c187a56f836da9090ed69996cb8565d5752551d9ad6"
+    },
+    {
+      "path": "docs/reference-freeze/r1/assets.json",
+      "bytes": 174255,
+      "sha256": "d7bf9cf996b4c588d345a725fe753ae174215f4d5bbd015e22116eaffd432588"
+    },
+    {
+      "path": "docs/reference-freeze/r1/assets.md",
+      "bytes": 33658,
+      "sha256": "070a6807696e6a533e4a589c4ce2e24f31663b4dbed33798f1cf8b7692abb67d"
+    },
+    {
+      "path": "docs/reference-freeze/r1/drift-verification.json",
+      "bytes": 1067,
+      "sha256": "33e42e139dfdf0eba3abdd57185b1e3accd3e4594e40bc5ca22a38fb89b2b163"
+    },
+    {
+      "path": "docs/reference-freeze/r1/initial-verification.json",
+      "bytes": 1166,
+      "sha256": "78b1253ff43210849279e64f62e11aa865fd9d3290da33a19b6d8d95accb06b0"
+    },
+    {
+      "path": "docs/reference-freeze/r1/manifest.json",
+      "bytes": 223964,
+      "sha256": "cf19bc8b75c8201f5d6033712bf10237f307f07a90c80613a8934a91558b0a5a"
+    },
+    {
+      "path": "docs/reference-freeze/r1/manifest.sha256",
+      "bytes": 80,
+      "sha256": "e49290e8432369ece0e47de1b354ab649bc8514d8dfd51a82fb6cf24778ebc14"
+    },
+    {
+      "path": "docs/reference-freeze/r1/media.json",
+      "bytes": 3307,
+      "sha256": "98c6313dc2687e16f41c78c435022662a0ed92417f2a0a2e6b7ac7500a9f57f7"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/art-extract.py",
+      "bytes": 1947,
+      "sha256": "b0330d79e29081f16ccc4e46526b2bf51d2c1c06318fef056667cd4b6d2a10e4"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/art-frame-manifest.json",
+      "bytes": 4935,
+      "sha256": "c1d3a2362b6a6002e5072c9a56a5eea0c94e6d9633a758191baac0b31f160089"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/art-measure.py",
+      "bytes": 5369,
+      "sha256": "e640d54f24a97dc482b127e4dc7d498beaabc436f9be99f7e38190fe2e4210a6"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/art-measurements.json",
+      "bytes": 4317,
+      "sha256": "8761a20553284f6ab5f40355a86430056582b0c251c2a7df03a703bd50984c40"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/build-viewer-data.py",
+      "bytes": 520,
+      "sha256": "84a4ddd199d1fc1db72a9795c56b8587ab12ed138d40333d49c76aa64ad010f3"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/chapters.json",
+      "bytes": 4498,
+      "sha256": "6b834d940e484def884def685eb3a5c9a730077765bfb7146a41f3c1e8aea471"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/combat-audit-manifest.json",
+      "bytes": 20359,
+      "sha256": "06948c19d97c5335cd61f0adc0c9a98daccbaaa0146c0bfeb0f64ecf34e4d110"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/combat-audit.py",
+      "bytes": 1990,
+      "sha256": "d3e2b87302454252782eb052f86071a3cfdec29ba89a243bd32842275c0880e6"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/combat-evidence-notes.json",
+      "bytes": 6753,
+      "sha256": "f4322d6dc2c08d82375b479fbf1900e420e12c32ec39511d6de4345c4c287203"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/data.js",
+      "bytes": 7127,
+      "sha256": "ddaf93fe1f36a2b5b5e9e95f4f60931b78ab9509db0b899c8b63a3b7c602e493"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/delivery-manifest.json",
+      "bytes": 1078,
+      "sha256": "2ab15f49de426c7806f8145e8f6788630b6e7d5aa3af4fde5251251f51c961f2"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/findings.json",
+      "bytes": 3318,
+      "sha256": "c7f33284a9f1583f7eb4ed15b2da2638d0960ff6c93bac67516071bbc843c6ee"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/frame-cadence.json",
+      "bytes": 1095,
+      "sha256": "d9fb89e66ed1d16d5414b262aab9f54332a4bb22f02f652f7c1cb54c0cffbc78"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/index.html",
+      "bytes": 3010,
+      "sha256": "7271b01170d150a6b95fc94f911d46c1ad3ba102e5ad6ff51d8e23ae4c66bc42"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/motion-analyze.py",
+      "bytes": 8618,
+      "sha256": "51f7d2c23360ff74c27c89cede3d620238c6124edf4ed9c26fd75de444ba9a78"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/motion-clean-wave.py",
+      "bytes": 2358,
+      "sha256": "a98e2eeda3e302755a3358d80380234531a4573bccd0f7d98321a592f6df6bf6"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/motion-evidence-status.json",
+      "bytes": 1603,
+      "sha256": "8b8c8bd12d1f3ee8a6cced6d04305c6e2a70733fad8666a5247c6bced90f4322"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/motion-menu-clean-crests.json",
+      "bytes": 2691,
+      "sha256": "4afad5a750a6ee3cf8bb939fa7249fed361462201f3f97991d205b809212867d"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/motion-menu-paper-camera.json",
+      "bytes": 3845,
+      "sha256": "889ad57484b0081c9116f1d8fbfbe9f627fe79b4b7df650a35414c0b7a802384"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/motion-paper-anchor.py",
+      "bytes": 1819,
+      "sha256": "bbaea77bd3070a250ccc61b864c2e8a8c85e8babd11f67665c19ac2c1c734725"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/motion-wave-data.json",
+      "bytes": 2452464,
+      "sha256": "594546365bfc7ab3b524562d2c8426691d096f7644f2d5a38896d2ae6eefd35c"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/review.css",
+      "bytes": 2088,
+      "sha256": "e59a94e4fd1bbff973430ba445716b1d41b306b30293f356e9e8bffea0193349"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/review.js",
+      "bytes": 2945,
+      "sha256": "f1a850dec0c2ea45286c29004fd62241751f0f91a3cda2c92cb8448681945f99"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/scene-candidates.txt",
+      "bytes": 1693,
+      "sha256": "a915e181e44bba28893551ad424281aed500d1c5a2f4112a076fa850742a16b0"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/scene-inspection.json",
+      "bytes": 1697,
+      "sha256": "c032de38ea7187b08213213c10daf06556aff58313c2eb2a87d35e5f7688ee76"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/scene-study.py",
+      "bytes": 2184,
+      "sha256": "152c584c89b444f328bbad60b8eb10637fe15948bab416854817c35a71ba96af"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/deep-analysis/source-frame-hashes.txt",
+      "bytes": 144217,
+      "sha256": "7acd2be2e7dfe998cd61539b57b63d505de48a2a8824a7c758164ece9e27e222"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/art/build-evidence.py",
+      "bytes": 4132,
+      "sha256": "43d7bd7ca880a25909140e078468f7171229b0d87ddea9859979be2c8d933cc8"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/art/build-inventory.py",
+      "bytes": 17084,
+      "sha256": "9e4bea0d31773c7d98193bd25791025d100650298bb447deaf15d0d459c5f92d"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/art/evidence-manifest.json",
+      "bytes": 5101,
+      "sha256": "422f0644647008e1c68fbd00d072c5baebda9a84364eaf1c8d305e3bad1a122a"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/asset-inventory.json",
+      "bytes": 46698,
+      "sha256": "3f0b3d87c202d30ec3c57dbfbc195443a247b2210fc6fa1a882dbeafe7b7e3b8"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/audio-envelope.svg",
+      "bytes": 10822,
+      "sha256": "cd214b1165e500b685fb04231b800cb13d85adb0841d523c446cef3fdf9f721f"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/audio-measurements.json",
+      "bytes": 34674,
+      "sha256": "c0376c88d866915ca91df499285ad713f247c1e7b3fd1280f37120c5ff1318e5"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/build-dossier.py",
+      "bytes": 1829,
+      "sha256": "98fc893e28e2070a4d4588e69896d4ed7fe372868536d655060551098ae08f0f"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/combat/manifest.json",
+      "bytes": 1354,
+      "sha256": "4e20eef10418ffd5ecb68d33c3c6b3087451bdab3788246c5031469db1f36894"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/combat-findings.json",
+      "bytes": 20929,
+      "sha256": "49070be3a8978cbe082d66ffc57950a626752e4b7ffaa325c657163453cca674"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/data.js",
+      "bytes": 80360,
+      "sha256": "818dcd215483176a7398b8cca92bfb9c5a3fd0a7d1d962d47ae98da16f432857"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/dossier.css",
+      "bytes": 9781,
+      "sha256": "b3fa76b9a791f438b4f7d71b904cd79970a140486280c2200b61b8e9251e15ac"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/dossier.js",
+      "bytes": 8608,
+      "sha256": "ca8046b59caaa45de8bc48a8e3b9874c33f1cd986c144050588b70376221926f"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/index.html",
+      "bytes": 10050,
+      "sha256": "b68aef1f3f7d64f20aadfef30a5f04de39442c20543a56a88cba9a7ddc02c410"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/localization.json",
+      "bytes": 17506,
+      "sha256": "bee3ab0b6404f990e0833f4c08a141647e399dfdaa3cb8f08a5112bd42d97d49"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/manifest.json",
+      "bytes": 4217,
+      "sha256": "7995d4f3c2d493904ee369ff83204b884724dc9146bc8c7e6e7aa35aa1705cf7"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/measure-audio.py",
+      "bytes": 3793,
+      "sha256": "2686ea23267ee267eb184116ea71d348ebdc28e9bde227e26356ec240a4964bd"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/motion/sampling-manifest.json",
+      "bytes": 2729,
+      "sha256": "0019c2a64afffcb9247db7918910df3837e552794fe65d5f6950aefc6a646ba3"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/motion-findings.json",
+      "bytes": 14767,
+      "sha256": "e36abcf1513dde6434ff17f3c428f5bb02371b1cb8e6ccc83dca1abc86c26755"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/runtime-before.json",
+      "bytes": 1057,
+      "sha256": "ad5ffc2a5a445030ee4c4cead205e306fd0b376019b6f724fa1ab9b8c9ebd416"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/production-teardown/validation.json",
+      "bytes": 985,
+      "sha256": "57234d7381aa68dbba0b32a3d766dfb02648ec2bf2554f100f27e0e5ddab8e59"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/combat-frame-pts.csv",
+      "bytes": 17407,
+      "sha256": "1e34c5dba831ebe54d48db334d363fd379a25b2bf9efa2078c3127238429e701"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/combat-sampling-manifest.json",
+      "bytes": 2114,
+      "sha256": "9802744568e652368020c00c9b5070380b7b81b4173d95473409936c06c26f64"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/download-manifest.json",
+      "bytes": 1096,
+      "sha256": "08ec3f5b56f35bb299782043b41f7823d9dc69c1f8e2efcd9dac6e6549fa4f98"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/ffprobe.json",
+      "bytes": 4312,
+      "sha256": "04083e07581ce829b2489ca5dcdc2defee02dd1b0ed88714385528e6518ee7c4"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/local-motion-recording.json",
+      "bytes": 4114,
+      "sha256": "02c440021bc0f34f2618717dfc18ac003fd01086371477eeb57890cc630b3ce2"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/ship-motion-measure.py",
+      "bytes": 3844,
+      "sha256": "b4278675f1c2aa3d5427ad3d36c9ab3e2766d67cd59ec24aad8e089351203490"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/ship-motion-measurements.json",
+      "bytes": 9262,
+      "sha256": "7effd4d86f80eddfad3737ad88ac82814ca44c8702b907074594fc22494cc89d"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/ship-motion-wave-measurements.json",
+      "bytes": 24052,
+      "sha256": "03c5806da0be8297b6db69c5e0110b47d001cd0106b3e3b0ec4b5d1b5c39dfa5"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/artifacts/video-study/ship-motion-wave.py",
+      "bytes": 3161,
+      "sha256": "0edc5b4ccc86d397b080d456208d277c01fe2ad66ba61a29ce119c11ab608b5b"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/assets/reference-v2/manifest.json",
+      "bytes": 5342,
+      "sha256": "0554cce8a959c3764755b00388ebe9adec50a29ea9f78962bae7955663d397a7"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/combat-motion-analysis.md",
+      "bytes": 13799,
+      "sha256": "0226709a205b4cd64831f9eb65fac8ac905a55c30d828fa145a2fc57b661ce9c"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/deep-analysis/README.md",
+      "bytes": 9943,
+      "sha256": "52fbce50184188e800cfe38c46d4014ce62f104b5f0df25164ba5e4137c36c4e"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/deep-analysis/art-direction.md",
+      "bytes": 13381,
+      "sha256": "086fca9f9d43f1359b82f154860842ad593c43b06972154fdc357f8826e1fc44"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/deep-analysis/combat-language.md",
+      "bytes": 22540,
+      "sha256": "f5485e9ffa1695760de230394ed1399c32925c693baa8b76ad06c19c6f00c8fb"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/deep-analysis/motion-grammar.md",
+      "bytes": 13332,
+      "sha256": "8bb03dbc39d79a886767ccb590506b0e1035c79377905a82f1806468fa1e932b"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/deep-analysis/pre-analysis-project-status.json",
+      "bytes": 4820,
+      "sha256": "ca35b4c43275c9331c20384e3087b104325d47f0f0d0f682745ab9cb660c4b09"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/deep-analysis/shot-structure.md",
+      "bytes": 4698,
+      "sha256": "c3963373bdf17872ff8cd24cef14975d52371c3205b7016a23a896d3fc82b3fa"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/history-v0.1/research.md",
+      "bytes": 5839,
+      "sha256": "52c2ad25a68bfaf0c08bc773db3ee6fa17954cbe5105e1c6d5aeb6e36fecc87e"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/history-v0.2/research.md",
+      "bytes": 3567,
+      "sha256": "941d72f550b82a995225598e178e761d70a29772216175b46573379c1a1732cd"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/motion-review.md",
+      "bytes": 5012,
+      "sha256": "ac80924082d143aa5b7c6f1185022da187f5f6d47fc0eea6c9d6008779e593be"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/production-teardown/README.md",
+      "bytes": 13608,
+      "sha256": "4ca31d7217193e5f6ebcb5376e5b3346f6886a4b321ac25de4019c470e5c66b4"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/production-teardown/art-bible.md",
+      "bytes": 14186,
+      "sha256": "8c3413af9c936ea73c853f7d3e2fc8e2c9cfdea46e4b286128e1dd4a2e30eb87"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/production-teardown/combat-design.md",
+      "bytes": 24432,
+      "sha256": "8c7c734de851311d98f8725481305010bdf48150b5a5d73c261112f1bfa4fb23"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/production-teardown/motion-vfx.md",
+      "bytes": 20807,
+      "sha256": "781552c1eef162576d3f1c8d42ddf24ea62d20b417fb7ce0881f4a6df5c6699a"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/production-teardown/review-notes.md",
+      "bytes": 1039,
+      "sha256": "da16099579d3095f34803eb42652728ec1fd4f7e77df0bab9e572b39b3155cdb"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/production-teardown/ui-audio-localization.md",
+      "bytes": 7455,
+      "sha256": "13f67cecc0c08c86f331a3b3eee1f70f0b4296550533fd0616198f36b11e577f"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/research.md",
+      "bytes": 1659,
+      "sha256": "fdf22e2e54f8f8215b4944a5dfd12cfbde671a12f7dee2c98992452a1fed5096"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/ship-motion-analysis.md",
+      "bytes": 8262,
+      "sha256": "c2e31f6994e59b414cbb2915d46c6327196578f48458c4d6faadb1f1abd1c9a7"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/docs/video-motion-study.md",
+      "bytes": 5276,
+      "sha256": "7adb5f20d0f05e67ef04727ef4f78b67dcdce1a6f0a8512289024a049ff1aa85"
+    },
+    {
+      "path": "docs/reference-freeze/r1/sources/src/source-art.js",
+      "bytes": 12334,
+      "sha256": "427a04ab9c2f62d5fb28a346bc8e3d46d0d834771b78e4cc313b4e62c150d8bb"
+    },
+    {
+      "path": "docs/research.md",
+      "bytes": 1659,
+      "sha256": "fdf22e2e54f8f8215b4944a5dfd12cfbde671a12f7dee2c98992452a1fed5096"
+    },
+    {
+      "path": "docs/reverse-audit/README.md",
+      "bytes": 10847,
+      "sha256": "2e3e4c75a1830e966f6ab8c78998cc7fdb8771881fa143f834985ac61a2a18c4"
+    },
+    {
+      "path": "docs/reverse-audit/evidence/browser.json",
+      "bytes": 40737,
+      "sha256": "52ed227c3cc2b432ffc5856039bca0035329cacd354210b743d7c63b3bba3fca"
+    },
+    {
+      "path": "docs/reverse-audit/evidence/clean-package.json",
+      "bytes": 1959,
+      "sha256": "e780b15f35358baf178422c48fc791150b9484ad8bdaed0c789499bcc0adcb98"
+    },
+    {
+      "path": "docs/reverse-audit/evidence/independent-review.json",
+      "bytes": 9289,
+      "sha256": "b24c97f0b65b0bf4a3f5a57fc9d568f733d6bb4158e8b27ef6e022947dd4d54a"
+    },
+    {
+      "path": "docs/reverse-audit/evidence/menu-difference.json",
+      "bytes": 685,
+      "sha256": "4d378705e6dffbc7a0c9118fd17b217ef730b14f962f5aa8942382fb7bd7ef6b"
+    },
+    {
+      "path": "docs/reverse-audit/evidence/reference.json",
+      "bytes": 2999,
+      "sha256": "aca18f8c7821f8dcf8c12a04b30759e89628f5b323d8f5df824478ae9743dc61"
+    },
+    {
+      "path": "docs/ship-motion-analysis.md",
+      "bytes": 8262,
+      "sha256": "c2e31f6994e59b414cbb2915d46c6327196578f48458c4d6faadb1f1abd1c9a7"
+    },
+    {
+      "path": "docs/v1/acceptance.md",
+      "bytes": 7463,
+      "sha256": "005ea021d92b5ddd33d7ba34b7d03471f5a92ef9f8a9760a4c35002951c4061f"
+    },
+    {
+      "path": "docs/v1/approved-goal.txt",
+      "bytes": 9753,
+      "sha256": "2c72a40e2fdeba6d3dcfedbd4b1bd26ed343a549da150fa7aa789623f8a89d4e"
+    },
+    {
+      "path": "docs/v1/board.json",
+      "bytes": 2524,
+      "sha256": "5216d6a3f07580368c14ee48986865f460fcc4b951164f037a4c3096d28bec16"
+    },
+    {
+      "path": "docs/v1/decisions.md",
+      "bytes": 9532,
+      "sha256": "74582b3be1a33f6756f39ba3826dab59fadd5119917140102e02ab0fa15db489"
+    },
+    {
+      "path": "docs/v1/delivery.md",
+      "bytes": 4727,
+      "sha256": "f83319e29b907ea2574a0a9a0f69ca98614a415f4c94a6be135b3818c98ee5f3"
+    },
+    {
+      "path": "docs/v1/entry-correction.md",
+      "bytes": 4448,
+      "sha256": "023b1080c1fba5ebec80dc72a3e2992b0bdac025c69393d93c31f97beacf9a0a"
+    },
+    {
+      "path": "docs/v1/evidence/actual-audio-video.json",
+      "bytes": 10168,
+      "sha256": "f70c95e36f936d9300215437c13d2179019bf3c39331f478915dc7a133678f3c"
+    },
+    {
+      "path": "docs/v1/evidence/browser-flow.json",
+      "bytes": 2143,
+      "sha256": "eb0da268ab1be4c427a6165b645c2469095fc4b7dc235297b607ab4e0d7636cd"
+    },
+    {
+      "path": "docs/v1/evidence/browser-latency.json",
+      "bytes": 1446,
+      "sha256": "7c34d1457636ecf3e3dfb25b649f81f65caa13bda8374a995138bc860e27bb1b"
+    },
+    {
+      "path": "docs/v1/evidence/browser-regression.json",
+      "bytes": 3796,
+      "sha256": "ac49e9d0ce2dd5843e94bf375c390a416f76b391d99a4150f45553708194a381"
+    },
+    {
+      "path": "docs/v1/evidence/clean-package-code-f250548.json",
+      "bytes": 6387,
+      "sha256": "1f14ddec84343c61e6a8d90b3a24b2618107f84df52abeafa356af4dd92f6e9b"
+    },
+    {
+      "path": "docs/v1/evidence/economy.json",
+      "bytes": 48198,
+      "sha256": "f99531b6656b5f871ba5117c14dfcee48cf6780debcce214cf1aa6b1373b7f57"
+    },
+    {
+      "path": "docs/v1/evidence/entry-regression.json",
+      "bytes": 3790,
+      "sha256": "b880583c0c6c36ea84f1fb47101fadeb63fa60c49ffdad8ba6e0a0de6ccf972e"
+    },
+    {
+      "path": "docs/v1/evidence/jev-ab-mock.json",
+      "bytes": 143050,
+      "sha256": "dbb453de3ca5d521c365430c6f5332988b62a77a1891f7e5d103b5fad1e28c9e"
+    },
+    {
+      "path": "docs/v1/evidence/jev-browser-fallback.json",
+      "bytes": 2013,
+      "sha256": "1ac88f5c126c3a6e878020d0013b37dd11f0ad3a4e2a3189b5d4e338c3a43b40"
+    },
+    {
+      "path": "docs/v1/evidence/jev-training-mock.json",
+      "bytes": 66882,
+      "sha256": "3d0a53a86a06a65fddf889743e92f14e00a02855edce6a95f420deefbc0196a1"
+    },
+    {
+      "path": "docs/v1/evidence/network-baseline.json",
+      "bytes": 1694,
+      "sha256": "14cc70b9744752caeafe463be7c11dcf28cda18a21f77ee0f1d65b1b6a3365ac"
+    },
+    {
+      "path": "docs/v1/evidence/network-jev-mock.json",
+      "bytes": 8978,
+      "sha256": "3facb11f458f4b50406cd346e53d3db1428d66167e0fe1ad884df8b4cff9c8fd"
+    },
+    {
+      "path": "docs/v1/evidence/onboarding.json",
+      "bytes": 23819,
+      "sha256": "22490bddef36412a2e7c6cebab23d6f2cf6051ee5cae0d949fecd732edf983c5"
+    },
+    {
+      "path": "docs/v1/evidence/persistence-process.json",
+      "bytes": 457,
+      "sha256": "27b4c751f6d3c2dd9f1d7bdd7e4b512a8810348d79f8cf94f37d45ada5ed63fc"
+    },
+    {
+      "path": "docs/v1/evidence/reference-freeze.json",
+      "bytes": 1145,
+      "sha256": "74eaa9700163ae17b26df37fe407e6e2421c56eebb9cd39def2fe49aa10c52d2"
+    },
+    {
+      "path": "docs/v1/evidence/save-copy-clarification.json",
+      "bytes": 318,
+      "sha256": "41b828a21c2256f3c14585ebed478546b4eeb21178d7beb1aae557fd336d953a"
+    },
+    {
+      "path": "docs/v1/evidence/soak-30min-baseline.json",
+      "bytes": 27762,
+      "sha256": "c303c5184ae49541fc7adc7c0c9efb5f5cdf398eec0dcb8242f2d73c58d657f3"
+    },
+    {
+      "path": "docs/v1/evidence-index.json",
+      "bytes": 8896,
+      "sha256": "99cb445feafeeaca7a78025b9dc84859e9ed52781fa832e8f1390ec6410ae534"
+    },
+    {
+      "path": "docs/v1/jev-experiment.md",
+      "bytes": 6128,
+      "sha256": "fbbf3395bc0a35d7d27beaf9cdf7f1057a55d19f1fdfc5db02a06b3e31f5c05e"
+    },
+    {
+      "path": "docs/v1/pause-volley.md",
+      "bytes": 4837,
+      "sha256": "6116620b426e7fd9c305a75e36d4b3058e1048f94b106a8eb7075e12ccfcb750"
+    },
+    {
+      "path": "docs/v1/progression-open-source.md",
+      "bytes": 6813,
+      "sha256": "46db9e151dc610de75b74ae8069a08643506f2fd2cb2db3e659c7c074208102c"
+    },
+    {
+      "path": "docs/v1/protocol.json",
+      "bytes": 8419,
+      "sha256": "776eee614c73588915bdbceeca5e6ed0041124329d495ce64d1ff9ea8b8c1cc2"
+    },
+    {
+      "path": "docs/v1/reward-loop.md",
+      "bytes": 15952,
+      "sha256": "0a52da3f795a4e7b19207b6af7a4e0f1c6ff4a82fff653aa806a017339cd6ca6"
+    },
+    {
+      "path": "docs/v1/skills-playability.md",
+      "bytes": 6742,
+      "sha256": "6b2ba5b2053b674ee74ddfa3e00187cbccb83b301b60ef18512714f12d78cff2"
+    },
+    {
+      "path": "docs/v1/two-voyage-candidate.md",
+      "bytes": 13024,
+      "sha256": "9cda6f4d25305f2aa48a672115ccc32a685cc3bc0c42b9e5584562af81735213"
+    },
+    {
+      "path": "docs/validation.md",
+      "bytes": 2320,
+      "sha256": "0d7b657f44d27431f5729b27a5c426803bd5021b793be1806b2772dbaa632f6b"
+    },
+    {
+      "path": "docs/video-motion-study.md",
+      "bytes": 5276,
+      "sha256": "7adb5f20d0f05e67ef04727ef4f78b67dcdce1a6f0a8512289024a049ff1aa85"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/00_REUSE_AUDIT.md",
+      "bytes": 1382,
+      "sha256": "c05dfdc634f6fbb94a46de93b86b5b2694bdfb81133b23665246d7fe6ee58725"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/INDEPENDENT_REVIEW.md",
+      "bytes": 1969,
+      "sha256": "32d567cd1dedfaae149d1fdce9f90bb6b23e675027aa219533bfbe04b5748610"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/MERGED_RESEARCH.md",
+      "bytes": 58268,
+      "sha256": "9b488abb9e7d64c73e5a94df45387c6321c9eef160b498c4623318f9126ede6e"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/README.md",
+      "bytes": 3402,
+      "sha256": "2ade280b57375bd4c22d70a498c2c0f7ceede44f405f766f7e30d6e0a0cd343f"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/merge-input-hashes.json",
+      "bytes": 3112,
+      "sha256": "43fc77863cee1e663921733b45d7c06d20af4beee76b1576093217b2c2d4aee7"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/merge-manifest.json",
+      "bytes": 739,
+      "sha256": "7aeeec2807a3bd094976bd8f66692a84aa077ff3b5afa67a98cd1fe678c3ab77"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/merge-materials.py",
+      "bytes": 24103,
+      "sha256": "63f1059acebd5eeed2c2edf093b3ce9a4256b02d14bbe0283dd02616c7c31417"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/merge-validation.json",
+      "bytes": 903,
+      "sha256": "30d897858d5704495c835a7766825f02f38d6d66959e23c341429c3f37ee1280"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/merged-research.json",
+      "bytes": 157649,
+      "sha256": "e571a12182cbeaa8f1e7c59a64def5282fa851c48210c6d0be882b5d6848a937"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/reuse-audit.json",
+      "bytes": 2678,
+      "sha256": "b0dcb39199d7b25ad6bde7d91543aedae0a23aaf5140d070a4dd4ab26722c34f"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/screening-status.json",
+      "bytes": 1060,
+      "sha256": "ccd05f9088fce98ba6cc3b4e0a646d3a7d550fa52165ff7def58fd2c69c39584"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/核心特征与证据.md",
+      "bytes": 9119,
+      "sha256": "6510c86db04974a161b3f6ac219793abc871e4ecf1fec859f1f7b879a2f84669"
+    },
+    {
+      "path": "docs/video-reconstruction-v2/现有实现差异与最小试验.md",
+      "bytes": 9894,
+      "sha256": "d36389297c75cbb8df3bd3149ea3de24eb9dbdfe406fc91eb3ff71c49f5a0b17"
+    },
+    {
+      "path": "docs/visual-fixes/README.md",
+      "bytes": 3759,
+      "sha256": "ee1e37b841a699b65ea0ac7e5edfd540d3cbae16db42b787dd64f52864700bed"
+    },
+    {
+      "path": "docs/visual-lock/DELIVERY.md",
+      "bytes": 1728,
+      "sha256": "4151c1b09f90ba723f5d8c216b8c17e9fbf1325659b301cae25eac6370be4d7a"
+    },
+    {
+      "path": "docs/visual-lock/README.md",
+      "bytes": 2557,
+      "sha256": "6534a1deb022ce5d54abb27c4b97ff0c82605048d934e7baac0f39c7f66fc7e3"
+    },
+    {
+      "path": "docs/visual-lock/pre-motion-design-qa.md",
+      "bytes": 4721,
+      "sha256": "b2214188815635b472b0e0adf7b12545c25ffbe74415ee8131f16998c4e89049"
+    },
+    {
+      "path": "docs/visual-lock/pre-selected-art-design-qa.md",
+      "bytes": 1556,
+      "sha256": "0d5bd6d43749daedfa3e668b4c4b516fa8a2369be3429bb4790568004146963b"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 316,
+      "sha256": "12fe8015585f9145e9d58e7f7955ad6ff0bec4d54db9613ddf574a1a20689fa0"
+    },
+    {
+      "path": "governance/MASTER_CONSTITUTION.snapshot.md",
+      "bytes": 10677,
+      "sha256": "001266a3b0cd0fdbd7adae033a074fab75487b3ba741698852a71a560487cb53"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5723,
+      "sha256": "6b86d3a8081421090cc7bc4e1e266013fdec19b46df4ecf5179700964437a524"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 2303,
+      "sha256": "1878e3c34a2cc51d821f1db66bb74dee906650b158f6371740ef93c1ca2cc36a"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1820,
+      "sha256": "e3020395cc1a127281a3ca9e9db13d2380ed79f859a3647bc2fbac4b4c4c7dea"
+    },
+    {
+      "path": "project-status.json",
+      "bytes": 5171,
+      "sha256": "4387892a1417a1e4371aa5143329dd4dd5efe097fdf4702b5902c37ed3b93d02"
+    },
+    {
+      "path": "scripts/browser-av.mjs",
+      "bytes": 11641,
+      "sha256": "7fa8391c8111d9cf1d56c5dba9d5df2d0d620ebb479ffd1d43ae2480280eddc9"
+    },
+    {
+      "path": "scripts/browser-driver.mjs",
+      "bytes": 2948,
+      "sha256": "40b3acf2be17626619bd01710a26f250c6439e6b609bc9eca3bb4225ef5aaf7b"
+    },
+    {
+      "path": "scripts/browser-jev.mjs",
+      "bytes": 4731,
+      "sha256": "2bffb7689cbce9f9eeaa2e4467674ff9da18849102fc8042b63fe64baaf57f2d"
+    },
+    {
+      "path": "scripts/browser-latency.mjs",
+      "bytes": 4723,
+      "sha256": "c49e51adf60e5dbdae63aa506debe259af9d12dbf270657f761271b225de167c"
+    },
+    {
+      "path": "scripts/browser-menu-motion.mjs",
+      "bytes": 2934,
+      "sha256": "254094feee32c01815fc1a247e8cfa82a9982ca4da1186a639af62a007dcb631"
+    },
+    {
+      "path": "scripts/browser-onboarding.mjs",
+      "bytes": 15735,
+      "sha256": "12a2583b262e22d06c490147e0e839aa5d62c43ca04239f580086aad8bc318cb"
+    },
+    {
+      "path": "scripts/browser-pause-volley.mjs",
+      "bytes": 8674,
+      "sha256": "55799a5c934ea38a82ccb29cfc1026758a2c0fe85f937421848c9fa27eb22b91"
+    },
+    {
+      "path": "scripts/browser-progression.mjs",
+      "bytes": 5882,
+      "sha256": "86e6bfbab526536fe2d3f94fa1fb7756e96f05f7fdc003828aae902c820acf89"
+    },
+    {
+      "path": "scripts/browser-regression.mjs",
+      "bytes": 10719,
+      "sha256": "4628971d717995a3a6ced9768ca47379d51353c28777b3e8df1b6fda48b126f9"
+    },
+    {
+      "path": "scripts/browser-reverse-audit.mjs",
+      "bytes": 9121,
+      "sha256": "5e864a0a6d9c9559e9afcf803d4c93d75e22a58ca7877dbf6827ab97ce88f3f0"
+    },
+    {
+      "path": "scripts/browser-reward-balance.mjs",
+      "bytes": 7805,
+      "sha256": "dc55aa9688b12d2c56ce436af73af88e18e66c3d76ac14bff92f2724b0ca18e8"
+    },
+    {
+      "path": "scripts/browser-reward-loop.mjs",
+      "bytes": 6126,
+      "sha256": "22b092575b08daa5f2898d05fd544f162e1e25fb11acbc4fe42f4bf8327151cd"
+    },
+    {
+      "path": "scripts/browser-reward-retention.mjs",
+      "bytes": 5687,
+      "sha256": "198cc844af0e07943db10b2f11f7a1633390c7d794cb26ba82dceaef4fcdcd31"
+    },
+    {
+      "path": "scripts/browser-skills-candidate.mjs",
+      "bytes": 4688,
+      "sha256": "18b868352a0b4312d29151dc132fabcbf7d69ef84b322736ba17b204d40b1192"
+    },
+    {
+      "path": "scripts/browser-smoke.mjs",
+      "bytes": 7735,
+      "sha256": "11717eb2bc737cb6cba64c3a0ef709e7a62f56521fc99e66b1eb3928bc48e736"
+    },
+    {
+      "path": "scripts/browser-soak.mjs",
+      "bytes": 4342,
+      "sha256": "d7a231d81a0dd828daf205a5587e12787824cd4bbd106f5f17f4533633855edf"
+    },
+    {
+      "path": "scripts/browser-two-voyage.mjs",
+      "bytes": 8107,
+      "sha256": "8bec0efe63f009d6d1f9b89bee3289eb1eafa30a525a300a656ccfef65067ef1"
+    },
+    {
+      "path": "scripts/browser-visual-lock.mjs",
+      "bytes": 5174,
+      "sha256": "e8b5fc371e8befb1b9e4140fc5d722227d66665e38f96e800d45783443f8b5b9"
+    },
+    {
+      "path": "scripts/browser-voyage-ui.mjs",
+      "bytes": 5139,
+      "sha256": "5b87143bfa068a7c34a47b4a6dddec055a52ca5ec803166d2e01faba68d94041"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 4894,
+      "sha256": "757698bf24139d121b67a5efd778a3d4afb142f068927d256b215971ebec482c"
+    },
+    {
+      "path": "scripts/check.mjs",
+      "bytes": 978,
+      "sha256": "d22c4f6f658f7912998642723a5d2bf0b15679fb804bb964465ef7ac26b964c4"
+    },
+    {
+      "path": "scripts/clean-package.mjs",
+      "bytes": 4729,
+      "sha256": "88e59a07946c71ec6245ab1d3043876c63d5e104986d94b16c53dc782a6841eb"
+    },
+    {
+      "path": "scripts/economy-study.mjs",
+      "bytes": 14111,
+      "sha256": "76ee8efb959da52786044b0af7e0f91e7f0b00a1b48bd696e7d3b625f6696219"
+    },
+    {
+      "path": "scripts/jev-ab.mjs",
+      "bytes": 15905,
+      "sha256": "40ffeb378cefc2f93c3606296048017259144e41f10f90074d1c544fabe6c177"
+    },
+    {
+      "path": "scripts/jev-training.mjs",
+      "bytes": 1528,
+      "sha256": "999a0d4f3f13740ee376d2c3446bd9512711106e172e10fb39feb1f7cc1ca555"
+    },
+    {
+      "path": "scripts/network-load.mjs",
+      "bytes": 6963,
+      "sha256": "dd84fd1bc3d75a6610d16751d57780d7a95e20424e5287a07404b943e49e00a9"
+    },
+    {
+      "path": "scripts/package-files.mjs",
+      "bytes": 6473,
+      "sha256": "0a9446cbed9970fd371959c73c71b5d61586054b969e14795a6bf868e05e021f"
+    },
+    {
+      "path": "scripts/persistence-process.mjs",
+      "bytes": 3384,
+      "sha256": "6d11c061a4c9da190fc58ffe06f7ed443228c5a4c887684fe7819bf3cc8115b9"
+    },
+    {
+      "path": "scripts/progression-sim.mjs",
+      "bytes": 3476,
+      "sha256": "36527104cf5200b6613d834e01fb7f3fe169d97948e8af205043c07125a9bf8d"
+    },
+    {
+      "path": "scripts/reward-balance-replay.mjs",
+      "bytes": 3629,
+      "sha256": "4af5c52b58f10b4a5076e33e2938044e96d9886821c1e9191f8b5ee292092f06"
+    },
+    {
+      "path": "scripts/reward-balance-report.mjs",
+      "bytes": 2309,
+      "sha256": "4ab0ca0c0ce969f66472faf7b1c8490a15209e6b1af01d323291eccb6688c554"
+    },
+    {
+      "path": "scripts/save.mjs",
+      "bytes": 2921,
+      "sha256": "3cdc2a3363a1ca2e2ed05f9689da24431751250c5434d96f7b99ebadfbd5eadc"
+    },
+    {
+      "path": "scripts/test-package-integrity.mjs",
+      "bytes": 6656,
+      "sha256": "94c6facfc4645379f0ebce020c081165f4ab19448dbded36b91d3dbbd49d420e"
+    },
+    {
+      "path": "scripts/trace-compatibility.mjs",
+      "bytes": 16007,
+      "sha256": "0ec80f6cb50cf140bf64dd2add72c3060aaaf3c94d57cc0fccac34ef609698b1"
+    },
+    {
+      "path": "scripts/trace-math.mjs",
+      "bytes": 2139,
+      "sha256": "35da6a8db97b2e169d2eeda98c3c6bdbf81fdf8b6ee987e519ffd6b9a96e884c"
+    },
+    {
+      "path": "scripts/verify-reference-freeze.mjs",
+      "bytes": 13039,
+      "sha256": "648c14ac6a891a522414cfdb7622725f05d13870bd952f923a6d7d3b696606e6"
+    },
+    {
+      "path": "scripts/verify-visual-lock.mjs",
+      "bytes": 5302,
+      "sha256": "09b2cd0abaa4f792d42d5b5a22ca77c26d409ca2f876c71e3a561439f442ad71"
+    },
+    {
+      "path": "server/director/jev-client.mjs",
+      "bytes": 5465,
+      "sha256": "3cf631d168fa03aa7da6c55efe28ed442def2de57238fcb89dd4a5598c980e25"
+    },
+    {
+      "path": "server/director/jev-director.mjs",
+      "bytes": 7340,
+      "sha256": "d708e96e2a8f87ded18311a5a18a1f9fd20ea5a1c195e8951ac16e2dbbd73cd6"
+    },
+    {
+      "path": "server/director/runtime.mjs",
+      "bytes": 1867,
+      "sha256": "b5fa2304cd06e365580e482ed2282fa619fd50b73cc1478410edeadc6e3f602e"
+    },
+    {
+      "path": "server/http.mjs",
+      "bytes": 9529,
+      "sha256": "b609c240e68fb8d40415c10cda484637e02b69651e9732886572347e064f7112"
+    },
+    {
+      "path": "server/rooms.mjs",
+      "bytes": 14102,
+      "sha256": "021ea1d5089f6f98a65f176be5dc5b0bc2de2c794bb28567f18fe0bb0107e86a"
+    },
+    {
+      "path": "server/store.mjs",
+      "bytes": 16536,
+      "sha256": "77088505b7ac3c11ede3d22c0982f14f621169e06ef68aaee69b3467782ff4e7"
+    },
+    {
+      "path": "server.mjs",
+      "bytes": 974,
+      "sha256": "c2de325f2439910aa0d8bb9d4205212f29d8a55e878d8ce41afc1519c6e47f76"
+    },
+    {
+      "path": "src/app-v1.js",
+      "bytes": 26353,
+      "sha256": "2d457e084e318d6a1b9be3018cbd0b89cf31fb944b36a25237c951a5d0951491"
+    },
+    {
+      "path": "src/audio.js",
+      "bytes": 5796,
+      "sha256": "4913524ce6c353cbb24ce5dd50d9952795ed5f4888a285e4713cba287cf83f5d"
+    },
+    {
+      "path": "src/battle.js",
+      "bytes": 1673,
+      "sha256": "658fd224ae15328dd94f9949f687d749148956b64cd6c731dce69bd5ff23fb63"
+    },
+    {
+      "path": "src/config-v1.js",
+      "bytes": 1930,
+      "sha256": "c9c729d8e5f99b898999f40ad8b4da58a5306b2d7ec8d50a6aefbae8950a0c1e"
+    },
+    {
+      "path": "src/copy-v1.js",
+      "bytes": 12535,
+      "sha256": "0e206564731e1d07eb3e99e42db29cfaccb8815086ae7d921c953aac26e5c683"
+    },
+    {
+      "path": "src/director-policy.js",
+      "bytes": 16008,
+      "sha256": "535a0201b29ce0060c0fa11533a06c7c882a82a50eb2511134e305cc66c2e59b"
+    },
+    {
+      "path": "src/engine.js",
+      "bytes": 50505,
+      "sha256": "7f81d76b49d8f55576085307cd65e3b2efb9264ece437beb2650a073552e7b79"
+    },
+    {
+      "path": "src/level-blueprints.js",
+      "bytes": 3969,
+      "sha256": "50dd174ce3c4964e63e71fd66b129ddb05eb4d07c2e4c137b2ee204f6041a310"
+    },
+    {
+      "path": "src/locked-art.js",
+      "bytes": 10757,
+      "sha256": "da137fb6eb94d1daf68bd0d88ee9acdde29f7ad69602bf9eacc9c08b673d3ad9"
+    },
+    {
+      "path": "src/menu-scene.js",
+      "bytes": 7408,
+      "sha256": "a4e5b7d3a06ee4f6733075ec189227eef45c9b7b51751af2393304ff638dc308"
+    },
+    {
+      "path": "src/network.js",
+      "bytes": 2930,
+      "sha256": "655ce7119e6cda40f6993f59a646c5a711b54120b91c00ad49ae81907582c9f7"
+    },
+    {
+      "path": "src/progression-ui.js",
+      "bytes": 989,
+      "sha256": "48815930a3a98c66b5f7c2c5f022f8392831f561c8dabe68b0f243cdd2630054"
+    },
+    {
+      "path": "src/renderer-locked.js",
+      "bytes": 39535,
+      "sha256": "1a0108a732ec125d2a059e41aece77f117ff01443ad5e6fd2012ec69c5998923"
+    },
+    {
+      "path": "src/reward-rules.js",
+      "bytes": 2807,
+      "sha256": "52bf51fcf7941c7bafd7f172dc3899562b4319d6bbbb2f210d4ba195360b71bd"
+    },
+    {
+      "path": "src/reward-ui.js",
+      "bytes": 2752,
+      "sha256": "002302a00e67e0b174e12a9c15131fc78fe729217146b1cdb9417ef44a603042"
+    },
+    {
+      "path": "src/ship-pose.js",
+      "bytes": 3343,
+      "sha256": "0327014328f4ada5e72b0760dc6228850c3bbc7209d75498cfcf031dfe70b239"
+    },
+    {
+      "path": "src/style-v1.css",
+      "bytes": 10504,
+      "sha256": "c7756a253b3ad4ade617c3291bcfb07399849949757f84c1b8cff506ef0c2db1"
+    },
+    {
+      "path": "src/visual-lock.js",
+      "bytes": 668,
+      "sha256": "057e4f4923024be2ef5a6679a31bb613945d15710d951f980d5f52264ae2face"
+    },
+    {
+      "path": "src/voyage-feedback.js",
+      "bytes": 5590,
+      "sha256": "3865740652b4f5f5b425b638a15606946cd6114c866a5d25533bb9e14c5b974e"
+    },
+    {
+      "path": "tests/combat-v1.test.js",
+      "bytes": 14575,
+      "sha256": "9621f8df93b79021913be865066e931b9ed19dc6bacf4278db3f0e4e7526d116"
+    },
+    {
+      "path": "tests/director-policy.test.js",
+      "bytes": 14876,
+      "sha256": "485514eb24519f676eb0c1233981e0bcbfef4f941709a0abb080d51128e2562c"
+    },
+    {
+      "path": "tests/engine.test.js",
+      "bytes": 18437,
+      "sha256": "216cfc65e3085ed74af78ad57c6b3e1cd550e601e77508845f70048d4678833c"
+    },
+    {
+      "path": "tests/fixtures/4176-first-voyage.json",
+      "bytes": 1549,
+      "sha256": "669b39716e53aaaddf8ac4c1440110eae20f339354041ab124915aa109058f16"
+    },
+    {
+      "path": "tests/fixtures/4176-schema-v1.sql",
+      "bytes": 1055,
+      "sha256": "6a578621647b352babac18ab2e986c97b1f89fb644e593ef744486d03ead78a9"
+    },
+    {
+      "path": "tests/fixtures/two-voyage-baseline.json",
+      "bytes": 9371,
+      "sha256": "8b71adc2049c69a8f1c03b777f4261bbce5a2873a44542b8ff85584066dbc86d"
+    },
+    {
+      "path": "tests/helpers/director-control.js",
+      "bytes": 2097,
+      "sha256": "fd1645a640ccde7d0b15b2bb854f2b6440d8abdc2ff82bf0807c7b685560e69b"
+    },
+    {
+      "path": "tests/jev-adversarial.test.js",
+      "bytes": 17259,
+      "sha256": "94c4863fbc92d8773fe936f0d3f75ef45117d252e00b53df875524b683c78715"
+    },
+    {
+      "path": "tests/playability-skills.test.js",
+      "bytes": 5935,
+      "sha256": "631ef435d531a954dac13072d093c65642f9ee24698368324a850f876158eaa2"
+    },
+    {
+      "path": "tests/progression-network.test.js",
+      "bytes": 4523,
+      "sha256": "aed98b11632329e2fbb876ed93adad05798558eb85c1e8ac367e88d7d1527c71"
+    },
+    {
+      "path": "tests/progression.test.js",
+      "bytes": 9858,
+      "sha256": "2d549c89f41dbc396ad1206e90f4fef7deda62d273a2b93aa66a6c46faa6210e"
+    },
+    {
+      "path": "tests/reward-balance.test.js",
+      "bytes": 7578,
+      "sha256": "8a683955ccdfeb8ce52c5cdf6e80a0e1545cd46215cdde7fefb52df90f79cc78"
+    },
+    {
+      "path": "tests/reward-loop.test.js",
+      "bytes": 10453,
+      "sha256": "9ffbb6aee17bdba0e1e09eed619560ee60893305ccfdc79cfe1794a4329d87c2"
+    },
+    {
+      "path": "tests/server-adversarial.test.js",
+      "bytes": 22590,
+      "sha256": "c7bfb5db47f88bdee7e55982bfaa88e170cb93dc6200b00b689307fd70641c18"
+    },
+    {
+      "path": "tests/ship-pose.test.js",
+      "bytes": 3535,
+      "sha256": "86d116c968f70a3662c5639b8791acfc61bf8ffe35ab5c655b4c2fbba74fecf9"
+    },
+    {
+      "path": "tests/store.test.js",
+      "bytes": 2907,
+      "sha256": "f7e7d314f592890391e892a3259bf8514572860c553a6cd173dbb298a5bd6312"
+    },
+    {
+      "path": "tests/voyage-feedback.test.js",
+      "bytes": 4254,
+      "sha256": "bc1e0ca5db2b22865dacb76e1d5fe96698949580c4ad0c07cf4b98c6b5f187d5"
+    },
+    {
+      "path": "tests/voyage-observations.test.js",
+      "bytes": 3308,
+      "sha256": "dc1601e0496cbff8f9b0629f89d3af14328d67e73e8165ab7254eeb0f71c85d9"
+    },
+    {
+      "path": "third_party/poke-survivors/LICENSE",
+      "bytes": 1075,
+      "sha256": "7b48f874c6554c7fed83fd9baf6709d4d15812f731cc86c361af85a0ae52f594"
+    },
+    {
+      "path": "third_party/progression-sources.json",
+      "bytes": 5888,
+      "sha256": "5428bc53a0d47096c3533864f946129ad98fa482df5ec5c3dc324ded52c26ea9"
+    },
+    {
+      "path": "third_party/vampire-survivors-clone/LICENSE",
+      "bytes": 1072,
+      "sha256": "a3cefaf08208a49741b1fa11b785a1ca7e7d5ddb5b13752d1d92fe6ab9985a8c"
+    }
+  ]
+}
